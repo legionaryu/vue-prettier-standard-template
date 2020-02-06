@@ -2,6 +2,7 @@
   "[javascript]": {
     "editor.formatOnSave": true,
     "editor.tabSize": 2,
+    "editor.insertSpaces": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.codeActionsOnSave": {
       "source.fixAll": true,
@@ -15,11 +16,13 @@
     "editor.suggest.insertMode": "replace",
     "editor.formatOnSave": true,
     "editor.tabSize": 2,
+    "editor.insertSpaces": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[vue]": {
     "editor.formatOnSave": true,
     "editor.tabSize": 2,
+    "editor.insertSpaces": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.codeActionsOnSave": {
       "source.fixAll": true,
