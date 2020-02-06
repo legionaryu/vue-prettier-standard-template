@@ -1,2 +1,24 @@
 # vue-prettier-standard-template
-This is a Template to create Vue projects using Prettier to format the .vue files using Standard.js
+
+## Project setup
+```
+pnpm install
+```
+
+### Compiles and hot-reloads for development
+```
+pnpm run serve
+```
+
+### Compiles and minifies for production
+```
+pnpm run build
+```
+
+### Lints and fixes files
+```
+pnpm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
